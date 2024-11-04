@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ramesh",
+      "email": "aadas@dsdsaa.com",
+      "checked": false
+    },
+    {
+      "id": "2",
+      "name": "Abhi",
+      "email": "aadas@dsdsaa.com",
+      "checked": true
+    }
+  ]
+}
